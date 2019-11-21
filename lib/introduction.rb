@@ -1,3 +1,3 @@
-def introduction
-  puts "Hi, Ruby programmer!"
+def introduction (name)
+  puts "Hi, my name is #{name}"
 end
